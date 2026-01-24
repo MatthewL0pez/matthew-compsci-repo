@@ -6,4 +6,4 @@ My submission for Opperating System Concepts, Section 07, Lab Week 2
 
 * Name: Matthew Lopez 
 * CWID: 885835108
-* Email: matthewlopez18@csu.fullerton.edu
+* Email: matthewlopez73@csu.fullerton.edu
